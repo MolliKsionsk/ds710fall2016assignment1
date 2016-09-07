@@ -2,9 +2,11 @@ Your first assignment is to use GitHub to submit some autobiographical informati
 1. What is your name? 
 	Molli Ksionsk
 2. Why are you interested in Data Science? 
+	I've been working with data and in analytics for 12 years and I love it. I feel like Data Science is the culmination of all I've done plus so much more. It's a fascinating field and I am excited to learn and embrace all it has to offer.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
 	I don't remember what programming courses I took (and any I did take I haven't used) but I've been programming for the past 12+ years in my various positions. I've mainly worked in SQL Studio, PL/SQL and SAS. I use all 3 on a daily basis in my current position and have begun working in R recently.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+	My undergraduate degree was in mathematics with an actuarial emphasis. I graduated in 2002 so it's been a while since I've taken any stats courses. I was a Quantitative Analyst from 2005-2008 doing customer modeling using logistic and linear regressions. I've since risen within the organization so I don't use statistics daily but I do still use them often in analyses that I do.
 5.  Do you have other experience with R or Python?
 	I have a little R experience and nearly no Python experience. I've been exposed to both but am excited to learn far more.
 6.  What do you hope to learn in this class?
